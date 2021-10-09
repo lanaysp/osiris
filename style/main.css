@@ -100,7 +100,7 @@ body {
 
 .getstarted img {
   position: absolute;
-  left: 1100px;
+  left: 1000px;
 }
 
 .getstarted .title {
@@ -217,7 +217,7 @@ body {
 }
 
 .hero .background {
-  background-image: url("/assets/image/bg.png");
+  background-image: url("assets/image/bg.png");
   border-radius: 40px;
   background-repeat: no-repeat;
   background-size: 100% 100%;
