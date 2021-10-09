@@ -1,0 +1,275 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;700&display=swap");
+.navbar-osiris {
+  padding-top: 30px;
+}
+
+.navbar-osiris .navbar-nav li {
+  padding-left: 50px;
+}
+
+.navbar-osiris .navbar-nav .active {
+  color: #335EF7 !important;
+  font-weight: 500 !important;
+}
+
+.navbar-osiris .navbar-nav .nav-link {
+  color: #34364A;
+  font-weight: 400;
+}
+
+.nav-button {
+  padding-left: 140px;
+}
+
+.nav-button .btn-search {
+  border-radius: 50px;
+  background: #EDF1FA;
+  color: #34364A;
+  border: 0;
+  padding: 12px 12px 12px 12px;
+  font-weight: 500 !important;
+}
+
+.nav-button .btn-login {
+  border-radius: 50px;
+  background: #EDF1FA;
+  color: #34364A;
+  border: 0;
+  padding: 10px 50px 10px 50px;
+  font-weight: 500 !important;
+}
+
+.btn-master, .btn-primary, .btn-secondary {
+  padding: 10px 13px 10px 13px;
+  font-weight: 500;
+}
+
+.btn-primary {
+  color: #FFFFFF;
+  background: #335EF7;
+  border: 0;
+}
+
+.btn-secondary {
+  color: #34364A;
+  background: #EDF1FA;
+  border: 0;
+}
+
+.buttons {
+  padding-bottom: 10px;
+}
+
+body {
+  font-family: poppins;
+}
+
+.footer {
+  padding: 100px 0 50px 0;
+  background: #383638;
+  color: #FFFFFF;
+}
+
+.footer .title {
+  margin-bottom: 20px;
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 45px;
+}
+
+.footer img {
+  margin-bottom: 25px;
+}
+
+.footer .list-unstyled li {
+  margin-bottom: 20px;
+}
+
+.footer .list-unstyled li .link {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.getstarted {
+  margin-top: 100px;
+  padding: 100px 500px 100px 500px;
+  background: #F6F8FD;
+}
+
+.getstarted img {
+  position: absolute;
+  left: 1100px;
+}
+
+.getstarted .title {
+  margin-bottom: 30px;
+  font-weight: 700;
+  color: #34364A;
+  font-size: 40px;
+  line-height: 65px;
+}
+
+.getstarted .sub-title {
+  margin-bottom: 40px;
+  color: #5D5D64;
+  font-size: 16px;
+  line-height: 37px;
+}
+
+.support {
+  margin-top: 100px;
+}
+
+.support .header {
+  margin-bottom: 30px;
+  font-weight: 700;
+  color: #34364A;
+  font-size: 40px;
+  line-height: 65px;
+}
+
+.support .deskripsi {
+  margin-bottom: 60px;
+  color: #5D5D64;
+  font-size: 16px;
+  line-height: 37px;
+}
+
+.featured .header {
+  margin-bottom: 100px;
+  font-weight: 700;
+  color: #34364A;
+  font-size: 40px;
+  line-height: 65px;
+}
+
+.featured .sub-artikel a {
+  text-decoration: none !important;
+}
+
+.featured .sub-artikel a :hover {
+  color: #22C59A;
+}
+
+.featured .sub-artikel .image {
+  width: 130px;
+  height: 130px;
+  border-radius: 10px;
+}
+
+.featured .sub-artikel .title {
+  color: #34364A;
+  font-size: 30px;
+  line-height: 45px;
+  font-weight: 700;
+}
+
+.featured .sub-artikel .sub-title {
+  margin-bottom: 90px;
+  color: #5D5D64;
+  font-size: 16px;
+  line-height: 37px;
+}
+
+.statistik {
+  font-weight: 700;
+  color: #34364A;
+  font-size: 40px;
+  line-height: 60px;
+}
+
+.sub-statistik {
+  color: #5D5D64;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+}
+
+.sub-header {
+  padding-bottom: 10px;
+  font-size: 30px;
+  line-height: 20px;
+  font-weight: 700;
+  color: #22C59A;
+}
+
+.headers {
+  padding-bottom: 10px;
+  font-weight: 700;
+  color: #34364A;
+  font-size: 34px;
+  line-height: 66px;
+}
+
+.description {
+  padding-bottom: 60px;
+  color: #34364A;
+  font-size: 15px;
+  line-height: 27px;
+  font-weight: 300;
+}
+
+.hero {
+  padding-top: 50px;
+  padding-bottom: 200px;
+}
+
+.hero .background {
+  background-image: url("/assets/image/bg.png");
+  border-radius: 40px;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+
+.hero .copywriting {
+  padding: 50px 0 0 50px;
+}
+
+.any-image {
+  margin-bottom: 60px;
+}
+
+.cta {
+  padding-bottom: 100px;
+}
+
+.experience {
+  margin-bottom: 120px;
+  padding: 80px 0 80px 0;
+  background-image: url("/assets/image/bg3.png");
+  background-size: cover;
+}
+
+.experience .master-card {
+  padding: 30px 30px 30px 30px;
+  height: 500px;
+  margin-bottom: 60px;
+  border-radius: 60px;
+  background: #FFFFFF;
+}
+
+.experience .sub-deskripsi {
+  margin-bottom: 110px;
+  color: #5D5D64;
+  font-size: 20px;
+  line-height: 30px;
+  font-weight: 400;
+}
+
+.name {
+  margin-bottom: 40px;
+  color: #34364A;
+  font-size: 30px;
+  line-height: 60px;
+  font-weight: 700;
+}
+
+.suport {
+  color: #5D5D64;
+  font-size: 16px;
+  line-height: 37px;
+  margin-bottom: 40px;
+}
+/*# sourceMappingURL=main.css.map */

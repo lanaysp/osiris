@@ -1,0 +1,45 @@
+@import './colors';
+@import './fonts';
+
+.nav-button{
+    padding-left: 140px;
+
+    .btn-search{
+        border-radius: 50px;
+        background: $secondary;
+        color: $black;
+        border: 0;
+        padding: 12px 12px 12px 12px;
+        font-weight: map-get($font-weights, medium) !important;
+    }
+    .btn-login{
+        border-radius: 50px;
+        background: $secondary;
+        color: $black;
+        border: 0;
+        padding: 10px 50px 10px 50px;
+        font-weight: map-get($font-weights, medium) !important;
+    }
+}
+
+.btn-master{
+    padding: 10px 13px 10px 13px;
+    font-weight: map-get($font-weights, medium );
+}
+
+.btn-primary{
+    @extend .btn-master;
+    color: $white;
+    background: $primary;
+    border: 0;
+}
+
+.btn-secondary{
+    @extend .btn-master;
+    color: $black;
+    background: $secondary;
+    border:0;
+}
+.buttons{
+    padding-bottom: 10px;
+}

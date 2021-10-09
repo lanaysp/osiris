@@ -1,0 +1,19 @@
+@import './colors';
+@import './fonts';
+
+.navbar-osiris{
+    padding-top: 30px ;
+     .navbar-nav {
+        li {
+            padding-left: 50px;
+        }
+        .active {
+            color: $primary !important;
+            font-weight: map-get($font-weights, medium) !important;
+        }
+        .nav-link {
+            color: $black;
+            font-weight: map-get($font-weights, regular) ;
+        }
+    }
+}
