@@ -92,7 +92,8 @@ body {
   text-decoration: none;
 }
 
-.getstarted {
+.
+started {
   margin-top: 100px;
   padding: 100px 500px 100px 500px;
   background: #F6F8FD;
@@ -100,7 +101,7 @@ body {
 
 .getstarted img {
   position: absolute;
-  left: 1000px;
+  left: 1100px;
 }
 
 .getstarted .title {
@@ -238,7 +239,7 @@ body {
 .experience {
   margin-bottom: 120px;
   padding: 80px 0 80px 0;
-  background-image: url("/assets/image/bg3.png");
+  background-image: url("assets/image/bg3.png");
   background-size: cover;
 }
 
