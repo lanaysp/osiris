@@ -100,14 +100,14 @@ body {
 
 .getstarted img {
   position: absolute;
-  left: 1100px;
+  left: 900px;
 }
 
 .getstarted .title {
   margin-bottom: 30px;
-  font-weight: 700;
+  font-weight: 600;
   color: #34364A;
-  font-size: 40px;
+  font-size: 38px;
   line-height: 65px;
 }
 
